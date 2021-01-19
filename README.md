@@ -1,7 +1,7 @@
 # FWD (future Work is Digital‏)
 
 ## Data-Analysis-Professional-Track
-![image](img.png)
+![image](img.PNG)
 
 ## Projects 
 * Explore Us Bikeshare Data
